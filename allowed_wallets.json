@@ -1,0 +1,14 @@
+{
+  "noone": [
+    "noone.io",
+    "googleapis.com",
+    "pulse.walletconnect.org",
+    "s2.coinmarketcap.com", 
+    "crashlitycs.com",
+    "appsflyersdk.com",   
+  ],
+  "another_wallet": [
+    "example.com",
+    "example.org"
+  ]
+}
