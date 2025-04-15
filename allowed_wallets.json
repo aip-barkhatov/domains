@@ -9,7 +9,6 @@
     ],
     "androidCM": [
         "android.clients.google.com",
-        "apple.com",
         "captive.apple.com",
         "clients3.google.com",
         "clients4.google.com",
