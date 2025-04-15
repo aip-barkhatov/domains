@@ -9,7 +9,6 @@
     ],
     "androidCM": [
         "android.clients.google.com",
-        "captive.apple.com",
         "clients3.google.com",
         "clients4.google.com",
         "connectivitycheck.android.com",
@@ -20,8 +19,6 @@
         "spectrum.s3.amazonaws.com",
         "www.airport.us",
         "www.androidbak.net",
-        "www.apple.com",
-        "www.appleiphonecell.com",
         "www.google.com",
         "www.gstatic.com",
         "www.ibook.info",
